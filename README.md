@@ -1,11 +1,15 @@
 ### Hi I'm Ilham 👋
 ![](https://komarev.com/ghpvc/?username=Ilham-sinatrio20&color=blue)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 ## Find me at
 1. <a href="https://www.linkedin.com/in/ilham-sinatrio-gumelar-504656193/">Linkedin</a>
 2. <a href="https://www.instagram.com/ilh.am_s/">Instagram</a>
 3. <a href="https://twitter.com/SIN_atR/">Twitter</a>
+
+## GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ilham-sinatrio20)](https://git.io/streak-stats)
 
 ## My stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ilham-sinatrio20&count_private=true&theme=tokyonight&showicons=true)]()

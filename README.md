@@ -1,14 +1,20 @@
 ### Hi I'm Ilham 👋
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 
 ## Find me at
 1. <a href="https://www.linkedin.com/in/ilham-sinatrio-gumelar-504656193/">Linkedin</a>
-2. <a href="https://www.linkedin.com/in/ilham-sinatrio-gumelar-504656193/">Instagram</a>
-3. <a href="https://www.linkedin.com/in/ilham-sinatrio-gumelar-504656193/">Twitter</a>
+2. <a href="https://www.instagram.com/ilh.am_s/">Instagram</a>
+3. <a href="https://twitter.com/SIN_atR/">Twitter</a>
+
+## My stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ilham-sinatrio20&count_private=true&theme=tokyonight&showicons=true)]()
+<br>
+
+## Most Used Languages by Me
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilham-sinatrio20&langs_count=5&theme=tokyonight)]()
 
 
-<center>https://github-readme-stats.vercel.app/api?username=Ilham-sinatrio20&show_icons=true&theme=radical</center>
 
 
 <!--

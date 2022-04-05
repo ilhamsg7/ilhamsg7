@@ -1,5 +1,5 @@
 ### Hi I'm Ilham 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)<br>
 ![](https://komarev.com/ghpvc/?username=Ilham-sinatrio20&color=blue)<br>
 Currently student at State Polytechnic of Malang. Interested in Software Development especially Web, Java, & SQL Database. F1 & Football enthusiast and always support Manchester United
 

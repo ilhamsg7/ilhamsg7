@@ -1,6 +1,6 @@
 ### Hi I'm Ilham 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)<br>
-![](https://komarev.com/ghpvc/?username=Ilham-sinatrio20&color=blue)<br>
+![](https://komarev.com/ghpvc/?username=ilhamsg7&color=blue)<br>
 Currently computer student at State Polytechnic of Malang. Interested in Software Development. F1 & Football enthusiast and always support Manchester United
 
 ## Find me at
@@ -9,14 +9,14 @@ Currently computer student at State Polytechnic of Malang. Interested in Softwar
 3. <a href="https://twitter.com/SIN_atR/">Twitter</a>
 
 ## GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ilham-sinatrio20)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilhamsg7)](https://git.io/streak-stats)
 
 ## My stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ilham-sinatrio20&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ilhamsg7&count_private=true&theme=tokyonight&showicons=true)]()
 <br>
 
 ## Most Used Languages by Me
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilham-sinatrio20&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamsg7&langs_count=5&theme=tokyonight)]()
 
 
 

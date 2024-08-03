@@ -4,9 +4,7 @@
 Currently computer student at Politeknik Negeri Malang. Interested in Software Development. F1 & Football enthusiast and always support Manchester United
 
 ## Find me at
-1. <a href="https://www.linkedin.com/in/ilham-sinatrio-gumelar-504656193/">Linkedin</a>
-2. <a href="https://www.instagram.com/ilh.am_s/">Instagram</a>
-3. <a href="https://twitter.com/SIN_atR/">Twitter</a>
+Feel free to connect with me on <a href="https://www.linkedin.com/in/ilham-sinatrio-gumelar-504656193/">Linkedin</a>, <a href="https://www.instagram.com/ilh.am_s/">Instagram</a>, <a href="https://twitter.com/SIN_atR/">Twitter</a>
 
 ## GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilhamsg7)](https://git.io/streak-stats)
